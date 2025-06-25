@@ -3,4 +3,3 @@ scikit-learn
 pandas
 nltk
 
-command for running -> streamlit run app.py
